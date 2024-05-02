@@ -1,0 +1,155 @@
+.icon {
+  position: absolute;
+  top: 0;
+  left: -33px;
+  width: 2426px;
+  height: 982px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.explorandoElUniverso {
+  position: absolute;
+  top: 494px;
+  left: 153px;
+  font-weight: 600;
+  display: inline-block;
+  width: 492px;
+  height: 92px;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: rgba(255, 255, 255, 0.5);
+  width: 191px;
+  height: 64px;
+}
+.acercaDeMi,
+.cv {
+  position: absolute;
+  top: 17px;
+  left: 65px;
+  font-weight: 900;
+}
+.acercaDeMi {
+  left: 18px;
+}
+.acerca {
+  position: absolute;
+  top: 0;
+  left: 238px;
+  border-radius: var(--br-31xl);
+  background-color: rgba(217, 217, 217, 0.5);
+  width: 191px;
+  height: 64px;
+  cursor: pointer;
+}
+.frameWrapper,
+.rectangleParent {
+  position: absolute;
+  top: 10px;
+  left: 9px;
+  width: 429px;
+  height: 64px;
+}
+.frameWrapper {
+  top: 633px;
+  left: 142px;
+  width: 566px;
+  height: 93px;
+  overflow: hidden;
+  font-size: var(--font-size-2xl);
+}
+.exoticdev {
+  position: absolute;
+  top: 0;
+  left: 134px;
+  font-weight: 900;
+}
+.holaSoyMiguel {
+  margin: 0;
+}
+.holaSoyMiguelContainer {
+  position: absolute;
+  top: 195px;
+  left: 0;
+  font-size: 40px;
+  font-weight: 600;
+}
+.exoticdevParent {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  width: 594px;
+  height: 360px;
+}
+.frame,
+.frame1 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame1 {
+  top: 5px;
+  left: 151px;
+  width: 594px;
+  height: 450px;
+  font-size: var(--font-size-51xl);
+}
+.frame {
+  top: 0;
+  left: 0;
+  width: 1453px;
+  height: 1020px;
+}
+.avatarpng1Icon {
+  top: 138px;
+  left: 0;
+  height: 512px;
+  object-fit: cover;
+}
+.avatar2,
+.avatarpng1Icon,
+.frame3,
+.frame4 {
+  position: absolute;
+  width: 512px;
+}
+.frame3 {
+  top: 0;
+  left: 52px;
+  height: 650px;
+  overflow: hidden;
+}
+.avatar2,
+.frame4 {
+  top: 213px;
+  left: 0;
+  height: 512px;
+}
+.frame4 {
+  top: 0;
+  height: 725px;
+}
+.frame2,
+.frame4,
+.pag1 {
+  overflow: hidden;
+}
+.frame2 {
+  position: absolute;
+  top: 0;
+  left: 828px;
+  width: 564px;
+  height: 725px;
+}
+.pag1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 900px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-nunito);
+}
